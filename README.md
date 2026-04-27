@@ -1,1 +1,1 @@
-# mini-customer-management-app
+# Mini Customer Management App
